@@ -1,0 +1,18 @@
+.header-content_logo {
+  min-width: fit-content;
+}
+.header-content_logo i {
+  width: 1.5rem;
+  margin-right: 0.4rem;
+}
+.header-content_logo > div {
+  display: flex;
+  align-items: center;
+  color: rgb(218, 47, 47);
+}
+.header-content_logo > p {
+  font-size: 0.5rem;
+}
+.content-logo img {
+  width: 1.5rem;
+}
